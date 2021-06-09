@@ -1,2 +1,3 @@
 # hello-world
-This is a simple repository
+Hi World !!
+i heard about github alot but never got a chance to work in this platform.
